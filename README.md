@@ -23,3 +23,18 @@ This README document contains helpful links and projects that may be found helpf
   - [Python Flask](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
   - [C++ socket](https://www.youtube.com/watch?v=IydkqseK6oQ)
   
+## How to contribute ##
+- Clone the repo on your machine
+``` 
+git clone https://github.com/chasemalbright/FUSE_RESOURCES.git
+```
+- Add your files and documentation
+```
+git add --all
+git commit -m "Describe your commit here"
+git push origin main
+```
+### Rules ###
+- create you own folder with a descriptive name
+- add a readme to your changes
+- do not delete an other folders
